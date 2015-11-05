@@ -28,7 +28,8 @@ Add your module into  `app/components/`, then follow the configuration structure
 			    - main.js (js file)
 		    - main.html (html file)
 
- 
+then type `gulp` at : `your/folder/mvc-angular gulp`
+
 **What's in this version?**
 
  - Initial configuration
